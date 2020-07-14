@@ -1,3 +1,9 @@
+# UI Clone Twitter
+
+[Link to access](https://twittercloneui.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9dc4128-134b-4f42-9860-a3980b95923b/deploy-status)](https://app.netlify.com/sites/twittercloneui/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
